@@ -6,5 +6,6 @@ This folder contains solutions to competitive programming questions implemented 
 
 1. [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
 2. [A - String Task](https://codeforces.com/contest/118/problem/A)
+3. [A - Theatre Square](https://codeforces.com/contest/1/problem/A)
 
 Feel free to explore the solutions and provide feedback or improvements if you find any!
