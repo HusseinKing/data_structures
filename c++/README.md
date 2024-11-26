@@ -9,5 +9,6 @@ This folder contains solutions to competitive programming questions implemented 
 3. [A - Theatre Square](https://codeforces.com/contest/1/problem/A)
 4. [A. Moving Chips](https://codeforces.com/contest/1923/problem/A)
 5. [B. Monsters Attack!](https://codeforces.com/contest/1923/problem/B)
+6. [B. The Butcher](https://codeforces.com/contest/1819/problem/B)
 
 Feel free to explore the solutions and provide feedback or improvements if you find any!
