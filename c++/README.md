@@ -10,5 +10,6 @@ This folder contains solutions to competitive programming questions implemented 
 4. [A. Moving Chips](https://codeforces.com/contest/1923/problem/A)
 5. [B. Monsters Attack!](https://codeforces.com/contest/1923/problem/B)
 6. [B. The Butcher](https://codeforces.com/contest/1819/problem/B)
+7. [B. YetnotherrokenKeoard](https://codeforces.com/contest/1907/problem/B)
 
 Feel free to explore the solutions and provide feedback or improvements if you find any!
